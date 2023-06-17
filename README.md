@@ -8,9 +8,9 @@
 
 ### About Myself
 
-Hi, this is Gaoyuan (Jay) Zhang, a passionate full-stack software engineer graduated from UC Berkelely with Economics and Statistics majors. I decided to pivot my career into sofrware engineering after three year working experience as an analytic consultant.
+I am an aspiring software engineer with a background in analytics and strategy. I enjoy solving complex problems and love the logic process of breaking down the problems into manageable pieces and planning steps to tackle them. I would like to make an impact by building great software products.
 
-It has been the digial age since mid-20th century and I believe it will still be. And I would like to make an impact in the digial age as a software engineer
+I got into software engineering by my previous consulting work and my desire to make greater impact. During my previous consulting experience, I practiced my problem-solving skills by helping pharmaceutical clients to craft launch strategy, measure performance and build commercial operation infrastructure. In the meantime, I realize the value of a great product and see how disruptive the technology can be to impact the world. Hence, I would like to make an impact by being a software engineer to build great tech/products.
 <!--
 **gocodezhang/gocodezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
