@@ -11,6 +11,18 @@
 I am an aspiring software engineer with a background in analytics and strategy. I enjoy solving complex problems and love the logic process of breaking down the problems into manageable pieces and planning steps to tackle them. I would like to make an impact by building great software products.
 
 I got into software engineering by my previous consulting work and my desire to make greater impact. During my previous consulting experience, I practiced my problem-solving skills by helping pharmaceutical clients to craft launch strategy, measure performance and build commercial operation infrastructure. In the meantime, I realize the value of a great product and see how disruptive the technology can be to impact the world. Hence, I would like to make an impact by being a software engineer to build great tech/products.
+
+### Technology & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 <!--
 **gocodezhang/gocodezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
